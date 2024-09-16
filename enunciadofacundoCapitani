@@ -1,0 +1,3 @@
+Realiz un algoritmo que solicite dos números enteros y los guarde en dos variables. Luego, el programa debe intercambiar
+el valor de estas dos variables sin utilizar una tercera variable auxiliar. 
+Finalmente, el programa debe mostrar el contenido de las variables para comprobar que el intercambio se ha realizado correctamente.

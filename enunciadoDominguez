@@ -1,0 +1,19 @@
+Enunciado
+Una empresa determinada que presta un servicio de mantenimiento de vehículos, necesita calcular rápidamente el precio de su trabajo, siguiendo la siguiente tabla:
+
+   Tipo de vehículo       |       Peso del vehículo        |       Precio del servicio
+                                      
+                                       < 1000kg                          $50.000
+      Automovil           
+                                       >= 1000kg                         $70.000
+       
+                                       < 2500kg                          $120.000
+      Camioneta
+                                       >= 2500kg                         $160.000
+
+                                       < 18000kg                         $1.500.000
+       Camion                   >= 18000kg y <= 25000kg                  $1.900.000
+                                       > 25000kg                         $2.400.000
+                                       
+Desarrollar un programa que determine el precio del servicio en función del tipo de vehículo y su peso en kilogramos. Además, en caso de error en el ingreso de datos,
+mostrar al usuario un mensaje que le pida ingresar los datos correctamente.
